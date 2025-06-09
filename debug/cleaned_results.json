@@ -1,0 +1,3026 @@
+[
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.72
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.599
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.7809999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.506
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.7290000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.5820000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.6679999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.662
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.715
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.57
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.762
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.877
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.904
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.8029999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.8420000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.895
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.6970000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.8440000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.8290000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.767
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.915
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9209999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.937
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9329999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.943
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9470000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.945
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9440000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9440000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.937
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.935
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.93
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9179999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.919
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9259999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.925
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.925
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.915
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9159999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.929
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.902
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.879
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.893
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.8270000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.823
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.907
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9079999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.905
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9229999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.904
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9079999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.919
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9079999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9159999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9209999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9229999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9209999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9179999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.887
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9059999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9159999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.873
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.884
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.8759999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.865
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.752
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.872
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.8320000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.7909999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.86
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.935
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.934
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.935
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9259999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9009999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.914
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.91
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.903
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9059999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.912
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9229999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.7290000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.642
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.674
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.61
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.825
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.674
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.7659999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.768
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.7020000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.757
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.804
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.762
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.774
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.556
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.542
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.503
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.669
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.672
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.6559999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.654
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.747
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.6459999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.721
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.618
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.5660000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.561
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.556
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.7290000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.506
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.767
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.5539999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.5720000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.8340000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.823
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.7859999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.696
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.7659999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.8320000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.897
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.815
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9059999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.902
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.873
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.888
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.893
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.8959999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.904
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9079999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.902
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.91
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.904
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9009999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.907
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9059999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9109999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9079999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9129999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9079999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.816
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.6859999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.737
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.6779999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.556
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.6920000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.524
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.84
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.914
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9179999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.905
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.909
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.919
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9209999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9209999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.93
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9179999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9259999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.919
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9229999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.915
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.894
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.705
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.7959999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9109999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.927
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.925
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.93
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.929
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9179999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9209999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9209999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9229999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.925
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.924
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.938
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.937
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.934
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.94
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.945
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.94
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9420000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.929
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.91
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9159999999999999
+  },
+  {
+    "timestamp": "2025-06-08T06:18:36.886548",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.915
+  },
+  {
+    "timestamp": "2025-06-08T06:20:47.224695",
+    "media_type": "image",
+    "source_path": "uploads/8e153156-d8f1-4c44-aebd-97c195a3c1a5.jpeg",
+    "label": "Sparrow",
+    "confidence": 0.9254000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:20:47.224695",
+    "media_type": "image",
+    "source_path": "uploads/8e153156-d8f1-4c44-aebd-97c195a3c1a5.jpeg",
+    "label": "Sparrow",
+    "confidence": 0.9093000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:24:05.821224",
+    "media_type": "image",
+    "source_path": "uploads/8e153156-d8f1-4c44-aebd-97c195a3c1a5.jpeg",
+    "label": "Sparrow",
+    "confidence": 0.9254000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:24:05.821224",
+    "media_type": "image",
+    "source_path": "uploads/8e153156-d8f1-4c44-aebd-97c195a3c1a5.jpeg",
+    "label": "Sparrow",
+    "confidence": 0.9093000000000001
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.72
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.599
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.781
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.506
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.729
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.582
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.668
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.662
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.715
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.57
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.762
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.56
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.877
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.904
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.803
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.842
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.895
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.697
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.844
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.829
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.767
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.915
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.921
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.937
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.933
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.943
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.947
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.945
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.944
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.944
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.937
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.935
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.93
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.918
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.919
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.926
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.925
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.925
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.915
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.916
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.929
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.902
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.879
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.893
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.827
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.823
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.907
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.908
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.905
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.923
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.904
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.908
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.919
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.908
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.916
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.921
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.923
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.921
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.918
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.887
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.906
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.916
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.873
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.884
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.876
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.865
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.752
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.872
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.832
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.791
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.86
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.935
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.934
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.935
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.926
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.901
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.914
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.91
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.903
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.906
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.912
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.923
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.729
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.642
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.674
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.61
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.825
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.674
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.766
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.768
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.702
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.757
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.804
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.762
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.774
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.556
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.542
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.503
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.669
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.672
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.656
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.654
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.747
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.646
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.721
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.618
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.566
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.561
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.556
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.729
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.506
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.767
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.554
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.572
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.834
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.823
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.786
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.696
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.766
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.832
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.897
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.815
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.906
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.902
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.873
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.888
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.893
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.896
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.904
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.908
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.902
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.91
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.904
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.901
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.907
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.906
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.911
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.908
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.913
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.908
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.816
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.686
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.737
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.678
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.556
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.692
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.524
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.84
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.914
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.918
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.905
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.909
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.919
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.921
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.921
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.93
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.918
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.926
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.919
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.923
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.915
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.894
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.705
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Kingfisher",
+    "confidence": 0.796
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.59
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.911
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.927
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.925
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.93
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.929
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.918
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.921
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.921
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.923
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.925
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.924
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.938
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.937
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.934
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.94
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.945
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.94
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.942
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.929
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.922
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.91
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.917
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.916
+  },
+  {
+    "timestamp": "2025-06-08T06:56:40.793860",
+    "media_type": "video",
+    "source_path": "uploads/sample.mp4",
+    "label": "Sparrow",
+    "confidence": 0.915
+  },
+  {
+    "timestamp": "2025-06-08T06:59:44.681199",
+    "media_type": "image",
+    "source_path": "uploads/8e153156-d8f1-4c44-aebd-97c195a3c1a5.jpeg",
+    "label": "Sparrow",
+    "confidence": 0.9254
+  },
+  {
+    "timestamp": "2025-06-08T06:59:44.681199",
+    "media_type": "image",
+    "source_path": "uploads/8e153156-d8f1-4c44-aebd-97c195a3c1a5.jpeg",
+    "label": "Sparrow",
+    "confidence": 0.9093
+  },
+  {
+    "timestamp": "2025-06-08T07:02:36.798661",
+    "media_type": "image",
+    "source_path": "uploads/8e153156-d8f1-4c44-aebd-97c195a3c1a5.jpeg",
+    "label": "Sparrow",
+    "confidence": 0.9254
+  },
+  {
+    "timestamp": "2025-06-08T07:02:36.798661",
+    "media_type": "image",
+    "source_path": "uploads/8e153156-d8f1-4c44-aebd-97c195a3c1a5.jpeg",
+    "label": "Sparrow",
+    "confidence": 0.9093
+  }
+]

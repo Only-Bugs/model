@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "birdtag-data-bucket"
+        },
+        "object": {
+          "key": "uploads/sample.wav"
+        }
+      }
+    }
+  ]
+}
